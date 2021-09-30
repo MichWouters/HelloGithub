@@ -1,13 +1,12 @@
 ﻿using System;
 
-namespace HelloGithub
+namespace HelloGithubBis
 {
     class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello Github");
         }
     }
 }
